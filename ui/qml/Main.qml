@@ -1,4 +1,5 @@
 import QtQuick
+
 import QtQuick.Controls
 import LogicGraph
 
@@ -11,4 +12,5 @@ Window {
     GraphView {
         anchors.fill: parent
     }
+
 }

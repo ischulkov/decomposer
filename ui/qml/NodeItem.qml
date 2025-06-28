@@ -1,4 +1,5 @@
 import QtQuick
+
 import QtQuick.Controls
 
 Rectangle {
@@ -27,4 +28,5 @@ Rectangle {
         text: root.name + ": " + root.value
         color: "black"
     }
+
 }

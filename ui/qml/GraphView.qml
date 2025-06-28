@@ -1,4 +1,5 @@
 import QtQuick
+
 import QtQuick.Controls
 import LogicGraph
 
@@ -24,4 +25,5 @@ Item {
             y: 50
         }
     }
+
 }
